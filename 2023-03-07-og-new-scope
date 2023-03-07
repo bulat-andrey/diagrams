@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T10:05:03.168Z" agent="5.0 (Windows)" version="20.8.20" etag="ZheFXUFQrlDWF9yOIYjX" type="github"><diagram name="Page-1" id="nqZbG4MHU4jvQdyevCQN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-07T10:06:32.574Z" agent="5.0 (Windows)" etag="w1m7xkjHpFI1BwlPLBUG" version="20.8.20" type="github">
+  <diagram name="Page-1" id="nqZbG4MHU4jvQdyevCQN">
+    <mxGraphModel dx="888" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1d6zrgTnvFGsIX5HzI6q-1" value="ETLs zip" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/698835-icon-109-document-zip-128.png" vertex="1" parent="1">
+          <mxGeometry x="560" y="60" width="88" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="1d6zrgTnvFGsIX5HzI6q-3" value="SQL Agent jobs list" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/list.svg;" vertex="1" parent="1">
+          <mxGeometry x="310" y="89" width="35" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
