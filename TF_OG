@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T13:35:09.843Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" version="21.1.8" etag="XmYBMMYXhOH1x8oOtucv" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T13:37:44.977Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="el6X0vGeIlxrAsEO1YUb" version="21.1.8" type="github">
   <diagram name="Page-1" id="IiAzRlUdgKpEgzmXO10r">
-    <mxGraphModel>
+    <mxGraphModel dx="2266" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_ZF8FrpHaGcMTSwUeMKC-1" value="Secrets should be tagged following the guidelines link below. By adding the suite tag we have existing Okta enabled IAM roles that allow engineers to access these secrets." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZF8FrpHaGcMTSwUeMKC-2" value="Aside from that the secrets should only be accessible via the application that needs them." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="130" width="500" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZF8FrpHaGcMTSwUeMKC-3" value="As for the initial secrets they can go straight to secrets manager or 1Password if they need to be stored somewhere until secrets manager is ready." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="560" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
